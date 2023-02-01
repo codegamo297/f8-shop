@@ -23,13 +23,13 @@ html {
 }
 
 /* Responsive */
-.gird {
+.grid {
     width: 1200px;
     max-width: 100%;
     margin: 0 auto;
 }
 
-.gird__full-width {
+.grid__full-width {
     width: 100%;
 }
 
